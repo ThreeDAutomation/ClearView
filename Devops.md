@@ -22,7 +22,7 @@
 ## **DevOps - Model - using VSTS**
 ---
 
- ![VSTS_DevOps_Diagram.png](.attachments/VSTS_DevOps_Diagram-5d95ad1b-6159-480b-ba74-7d876e38bc99.png)
+![VSTS_DevOps_Diagram.png](.attachments/VSTS_DevOps_Diagram-c0f3a916-bd52-49a6-bc73-da37152f3635.png)
 
  *Test Plan Approach*
 
@@ -113,7 +113,7 @@ The team is dependent on core search product (current version - 1.9.12.5) provid
  
 ## **DevOps - Status**
 ---
-![SS_Dev_Ops_2.png](.attachments/SS_Dev_Ops_2-d33e4b33-1a0c-423d-bfd3-1abb6a21cdd7.png)
+![SS_Dev_Ops_2.png](.attachments/SS_Dev_Ops_2-3f052702-5a8e-4e38-a822-14ac5f03d168.png)
 
 
 
