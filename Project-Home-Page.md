@@ -32,11 +32,11 @@ The application performs three basic tasks:
 
 
 ## Architecture 
-![SS_Arch_2.png](.attachments/SS_Arch_2-baf01326-3fce-45a4-a3b5-1af53277a077.png)
+![SS_Arch_2.png](.attachments/SS_Arch_2-cb8598d8-af48-4ac2-aedd-3b52f43f4281.png)
 
 ##Technical Stack
 
-![SS_Architecture.png](.attachments/SS_Architecture-0b872e98-0d38-41fb-952f-8e450f40638f.png)
+![SS_Architecture.png](.attachments/SS_Architecture-885ac73e-7473-4e23-9bd3-c55ccd400e8b.png)
 
 
 
