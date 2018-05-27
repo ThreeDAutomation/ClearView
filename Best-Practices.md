@@ -52,8 +52,12 @@ Before the start of the sprint – sprint planning is must where team must agree
 
 
 ###Sample Video Tutorials (Test only)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pgz3Ua-I8UM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+`<iframe width="560" height="315" src="https://www.youtube.com/embed/pgz3Ua-I8UM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>`
+
+
+<video src="<https://www.youtube.com/embed/Vj7DmdO4-Fg?rel=0>" width=400 controls allowfullscreen>
+</video>
 
 [Play video from YouTube](https://www.youtube.com/embed/Vj7DmdO4-Fg?rel=0)
 
