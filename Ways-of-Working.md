@@ -34,7 +34,7 @@ VSTS provides end-to-end ALM functionality using various hubs as listed below -
 
 ##**SmartSearch Roles interacting with VSTS Hubs -**
 
-![Smart_Search_VSTS_PROCESS.png](.attachments/Smart_Search_VSTS_PROCESS-6ed369f5-09a0-4e15-b626-d089a65d74e1.png)
+![Smart_Search_VSTS_PROCESS.png](.attachments/Smart_Search_VSTS_PROCESS-a692e219-e8f8-4245-bc48-41cb5fdaf06b.png)
 
 ###**Standard Project Roles -**
 
