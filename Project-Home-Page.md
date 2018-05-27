@@ -1,4 +1,4 @@
-![smartsearch_new_logo.png](.attachments/smartsearch_new_logo-7857837e-061f-4e40-bdca-de20ca76335d.png) 
+
 #**About Demo Search Project**
 ---
 
