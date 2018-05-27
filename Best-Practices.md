@@ -22,7 +22,7 @@ Following areas of best practices will help to ensure team remained focused on t
 -Master
 -Hot Fix
 -Feature
-![20180522_113357.jpg](.attachments/20180522_113357-cb89bd83-9df3-4fe0-b9c5-5b3a34c19ec8.jpg)
+![20180522_113357.jpg](.attachments/20180522_113357-c149a9fe-50bf-429d-88af-176449c8173a.jpg)
 The policies to be re-visited after PaaS migration
 >> - [**Build Management**](https://docs.microsoft.com/en-us/vsts/build-release/actions/ci-cd-part-1?view=vsts)
         1. Automated test cases must be included in the build step
