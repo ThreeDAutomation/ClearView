@@ -1,5 +1,5 @@
 ![smartsearch_new_logo.png](.attachments/smartsearch_new_logo-7857837e-061f-4e40-bdca-de20ca76335d.png) 
-#**About Smart Search Project**
+#**About Demo Search Project**
 ---
 
 A SmartSearch is an information retrieval application that discovers, crawls, transforms and stores information for retrieval and presentation in response to user queries.
