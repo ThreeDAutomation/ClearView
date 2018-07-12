@@ -1,7 +1,8 @@
 
 ![ClearViewLOGO.png](/.attachments/ClearViewLOGO-32593f84-3334-4ca5-899f-fac7a2531ae7.png)
 ---
-[bot.html](/.attachments/bot-31a813d0-e575-434f-a0c4-7398d95734f1.html)` `
+`[bot.html](/.attachments/bot-31a813d0-e575-434f-a0c4-7398d95734f1.html)`
+
 
 A Clear View Search is an information retrieval application that discovers, crawls, transforms and stores information for retrieval and presentation in response to user queries.
 
