@@ -2,12 +2,11 @@
 ![ClearViewLOGO.png](/.attachments/ClearViewLOGO-32593f84-3334-4ca5-899f-fac7a2531ae7.png) 
 ---
 <script type="text/javascript">
+var myVar="hello";
+function showAlert() { alert('You triggered an alert!'); }
+</script>
 
-function showBot() { 
-            alert('You triggered an alert!'); 
-}
-          </script>
-<p><a href="#" onClick="showBot();">Enable Bot</a></p>
+<p><a href="#" onClick="alert('Hello');">Click Me</a></p>
 
 
 <div style="background-color:blue;color:white;padding:8px;">
