@@ -6,8 +6,7 @@ var myVar="hello";
 function showAlert() { alert('You triggered an alert!'); }
 </script>
 
-<p><a href="#" onClick="alert('Hello');">Click Me</a></p>
-
+<p><a href="#" onClick="alert('Hello');">Enable Bot</a></p>
 
 <div style="background-color:blue;color:white;padding:8px;">
 <p>About ClearView</p>
