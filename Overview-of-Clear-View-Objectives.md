@@ -72,7 +72,6 @@ DevOps Consulting Partner|[Sanjay Tripathi](mailto:sanjay.tripathi@bp.com)|
 ---
 
 - [Clear View Search Roadmap 2018](https://bp365.sharepoint.com/:x:/r/sites/Upstream10/SmartSearch/_layouts/15/doc.aspx?sourcedoc=%7BE58E4FAC-AC5E-4FAF-9532-13B656FA27B9%7D&file=SmartSearch%20-%202018%20Integrated%20Plan.xlsx&action=default)
-- [Smart Search Reference M&T](https://intranet.bp.com/en_gb/segments/upstream/path-to-2020/modernization-and-transformation/See_MT_at_work/SmarterSearch.html )
 - [DevOps enablement in Smart Search](/Devops)
 - [Best Practices ](/Best-Practices)
 - [Ways of Working](/Ways-of-Working)
