@@ -1,20 +1,7 @@
 
 ![ClearViewLOGO.png](/.attachments/ClearViewLOGO-32593f84-3334-4ca5-899f-fac7a2531ae7.png)
 ---
-`   <!DOCTYPE html>
-        <html>
-        <head>
-          <title>Web Channel</title>
-          <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-        </head>
-        <body>
-          <script type="text/javascript">
-            var AvaamoChatBot=function(t){function o(t,o){var n=document.createElement("script");n.setAttribute("src",t),n.onload=o,document.body.appendChild(n)}return this.options=t||{},this.load=function(t){o(this.options.url,function(){window.Avaamo.addFrame(),t&&"function"==typeof(t)&&t(window.Avaamo)})},this};
-            var chatBox = new AvaamoChatBot({url: 'https://c0.avaamo.com/web_channels/ec4a30ce-45b8-467d-a47b-dc763fb7093f?banner=true&banner_text=+&banner_title=This+is+a+test+Zero+Touch+Change+Assistant+for+ClearView&demo=true&theme=avm-blue'});
-            chatBox.load();
-          </script>
-        </body>
-      </html>`
+[bot.html](/.attachments/bot-31a813d0-e575-434f-a0c4-7398d95734f1.html)` `
 
 A Clear View Search is an information retrieval application that discovers, crawls, transforms and stores information for retrieval and presentation in response to user queries.
 
@@ -98,3 +85,4 @@ DevOps Consulting Partner|[Sanjay Tripathi](mailto:sanjay.tripathi@bp.com)|
 - [Indexing Tracker (in Teams)](https://teams.microsoft.com/_#/xlsx/viewer/teams/https%3A~2F~2Fwipro365.sharepoint.com~2Fsites~2FSmartSearch~2FShared%20Documents~2FGeneral~2FIndexing~2FNew%20Access%20Management%20Indexing%20Tracker1704.xlsx?threadId=19%3Aeb6fdcc09c694eaebba95edfc2f1a1b4%40thread.skype&baseUrl=https%3A~2F~2Fwipro365.sharepoint.com~2Fsites~2FSmartSearch&fileId=0217C060-9D25-45DD-863A-0FA4B0CF1A30&ctx=files&viewerAction=view)
 - [Smart Search User Access Policy](https://wiki.bpglobal.com/index.php?title=SmartSearch_Managing_User_Access_%E2%80%93_Joiners_Transfers_and_Leavers_Process)
 - [Video Tutorial (KT)](https://bp365.sharepoint.com/:v:/s/Upstream10/SmartSearch/Ef8_On-vVIFDp-v-OXyKTBoBbp1zg85tZhz75qpqBeSOEQ)
+ [bot.html](/.attachments/bot-f43e2db5-f561-4ebd-88e4-abd5b59ac60e.html)
