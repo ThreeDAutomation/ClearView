@@ -7,7 +7,7 @@
             chatBox.load();
           </script>
 
-<div style="background-color:blue;color:white;padding:10px;">
+<div style="background-color:blue;color:white;padding:8px;">
 <p>About ClearView</p>
 </div>
 
