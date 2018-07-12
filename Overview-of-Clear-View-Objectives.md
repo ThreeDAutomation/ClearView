@@ -51,7 +51,7 @@ The application performs three basic tasks:
 ZTC Consulting Partner|Julien Brian| 
 DevOps Consulting Partner|[Sanjay Tripathi](mailto:sanjay.tripathi@bp.com)|
 
-**[eMail Team](mailto:avinash.ghosh@se1.bp.com;ana.vintila@bp.com;imran.arfi@wipro.com;badal.mohapatra@wipro.com;ashok.yesurathinam@wipro.com;visalakshi.g17@wipro.com;balaji.rajaraman@wipro.com;shatkratu.rajgopal@wipro.com;geetha.venu@wipro.com;apoorv.gupta2@wipro.com;sanjay.tripathi@bp.com)**
+**[eMail Team](mailto:vaideshwar.sekar1@wipro.com;nagesh.munivenkatesh@wipro.com;sanjay.tripathi@bp.com)**
 
 
 ##Service Enablers
