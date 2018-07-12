@@ -46,7 +46,7 @@ The application performs three basic tasks:
 
 | Role                    | Name         | Deputy (Backup)  
 |-----------            |:---------------|:---------------
-| Project Manager                | [Avinash Ghosh](mailto:avinash.ghosh@se1.bp.com) | [Ana Maria Felicia Vintila](mailto:ana.vintila@bp.com)
+| Program Director                | [Vaideshwar Sekar ](mailto:vaideshwar.sekar1@wipro.com) | [Ana Maria Felicia Vintila](mailto:ana.vintila@bp.com)
 | Scrum Master                | [Ana Maria Felicia Vintila](mailto:ana.vintila@bp.com)    | [Avinash Ghosh](mailto:avinash.ghosh@se1.bp.com) 
 Architect |Imran Arfi| 
 Search Architect|Badal Mohapatra|
