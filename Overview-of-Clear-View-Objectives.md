@@ -48,17 +48,8 @@ The application performs three basic tasks:
 |-----------            |:---------------|:---------------
 | Program Director                | [Vaideshwar Sekar ](mailto:vaideshwar.sekar1@wipro.com) | [Nagesh A Munivenkatesh ](mailto:nagesh.munivenkatesh@wipro.com@bp.com)
 | Program Support                | [Nagesh A Munivenkatesh ](mailto:nagesh.munivenkatesh@wipro.com)    | [Vaideshwar Sekar ](mailto:vaideshwar.sekar1@wipro.com) 
-Architect |Imran Arfi| 
-Search Architect|Badal Mohapatra|
-Lead Consultant|Ashok Praveen
-Automation Tester|Visalakshi G
-Developer|Balaji Rajaraman
-Developer|Shatkratu Rajgopal
-API Developer|Geetha Venu
-Front End Developer|Apoorv Gupt
-Front End Developer|Hanumantha Rao
-DevOps Engineer / VSTS Admin|Monica Vijayvergiya|Ashok Praveen
-DevOps Consultant|[Sanjay Tripathi](mailto:sanjay.tripathi@bp.com)|Monica Vijayvergiya
+ZTC Consulting Partner|Julien Brian| 
+DevOps Consulting Partner|[Sanjay Tripathi](mailto:sanjay.tripathi@bp.com)|
 
 **[eMail Team](mailto:avinash.ghosh@se1.bp.com;ana.vintila@bp.com;imran.arfi@wipro.com;badal.mohapatra@wipro.com;ashok.yesurathinam@wipro.com;visalakshi.g17@wipro.com;balaji.rajaraman@wipro.com;shatkratu.rajgopal@wipro.com;geetha.venu@wipro.com;apoorv.gupta2@wipro.com;sanjay.tripathi@bp.com)**
 
