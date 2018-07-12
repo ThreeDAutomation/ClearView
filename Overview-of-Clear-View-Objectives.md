@@ -46,8 +46,8 @@ The application performs three basic tasks:
 
 | Role                    | Name         | Deputy (Backup)  
 |-----------            |:---------------|:---------------
-| Program Director                | [Vaideshwar Sekar ](mailto:vaideshwar.sekar1@wipro.com) | [Ana Maria Felicia Vintila](mailto:ana.vintila@bp.com)
-| Scrum Master                | [Ana Maria Felicia Vintila](mailto:ana.vintila@bp.com)    | [Avinash Ghosh](mailto:avinash.ghosh@se1.bp.com) 
+| Program Director                | [Vaideshwar Sekar ](mailto:vaideshwar.sekar1@wipro.com) | [Nagesh A Munivenkatesh ](mailto:nagesh.munivenkatesh@wipro.com@bp.com)
+| Program Support                | [Nagesh A Munivenkatesh ](mailto:nagesh.munivenkatesh@wipro.com)    | [Vaideshwar Sekar ](mailto:vaideshwar.sekar1@wipro.com) 
 Architect |Imran Arfi| 
 Search Architect|Badal Mohapatra|
 Lead Consultant|Ashok Praveen
