@@ -1,7 +1,11 @@
 
 ![ClearViewLOGO.png](/.attachments/ClearViewLOGO-32593f84-3334-4ca5-899f-fac7a2531ae7.png) 
 ---
-
+<script type="text/javascript">
+            var AvaamoChatBot=function(t){function o(t,o){var n=document.createElement("script");n.setAttribute("src",t),n.onload=o,document.body.appendChild(n)}return this.options=t||{},this.load=function(t){o(this.options.url,function(){window.Avaamo.addFrame(),t&&"function"==typeof(t)&&t(window.Avaamo)})},this};
+            var chatBox = new AvaamoChatBot({url: 'https://c0.avaamo.com/web_channels/ec4a30ce-45b8-467d-a47b-dc763fb7093f?banner=true&banner_text=+&banner_title=This+is+a+test+Zero+Touch+Change+Assistant+for+ClearView&demo=true&theme=avm-blue'});
+            chatBox.load();
+          </script>
 
 <div style="background-color:blue;color:white;padding:10px;">
 <p>About ClearView</p>
