@@ -3,7 +3,7 @@
 #**About ClearView Search Project**
 ---
 
-A ClearView Search is an information retrieval application that discovers, crawls, transforms and stores information for retrieval and presentation in response to user queries.
+A Clear View Search is an information retrieval application that discovers, crawls, transforms and stores information for retrieval and presentation in response to user queries.
 
 The application performs three basic tasks:
 1. Finding and selecting full or partial content based on the keywords provided.
