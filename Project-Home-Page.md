@@ -1,5 +1,5 @@
 
-![Wipro_logo_small.png](.attachments/Wipro_logo_small-aac64b7b-b1cd-45b4-9a65-a2396f4a0b88.png) 
+![ClearViewLOGO.png](/.attachments/ClearViewLOGO-32593f84-3334-4ca5-899f-fac7a2531ae7.png)
 #**About Demo Search Project**
 ---
 
