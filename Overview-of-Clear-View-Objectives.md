@@ -1,8 +1,21 @@
 
 ![ClearViewLOGO.png](/.attachments/ClearViewLOGO-32593f84-3334-4ca5-899f-fac7a2531ae7.png)
 ---
-`[bot.html](/.attachments/bot-31a813d0-e575-434f-a0c4-7398d95734f1.html)`
-
+   <!DOCTYPE html>
+        <html>
+        <head>
+          <title>Web Channel</title>
+          <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+        </head>
+        <body>
+          
+          <script type="text/javascript">
+            var AvaamoChatBot=function(t){function o(t,o){var n=document.createElement("script");n.setAttribute("src",t),n.onload=o,document.body.appendChild(n)}return this.options=t||{},this.load=function(t){o(this.options.url,function(){window.Avaamo.addFrame(),t&&"function"==typeof(t)&&t(window.Avaamo)})},this};
+            var chatBox = new AvaamoChatBot({url: 'https://c0.avaamo.com/web_channels/ec4a30ce-45b8-467d-a47b-dc763fb7093f?banner=true&banner_text=+&banner_title=This+is+a+test+Zero+Touch+Change+Assistant+for+ClearView&demo=true&theme=avm-blue'});
+            chatBox.load();
+          </script>
+        </body>
+      </html>
 
 A Clear View Search is an information retrieval application that discovers, crawls, transforms and stores information for retrieval and presentation in response to user queries.
 
