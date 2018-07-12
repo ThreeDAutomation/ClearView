@@ -1,6 +1,5 @@
 
 ![ClearViewLOGO.png](/.attachments/ClearViewLOGO-32593f84-3334-4ca5-899f-fac7a2531ae7.png)
-#**About ClearView Search Project**
 ---
 
 A Clear View Search is an information retrieval application that discovers, crawls, transforms and stores information for retrieval and presentation in response to user queries.
