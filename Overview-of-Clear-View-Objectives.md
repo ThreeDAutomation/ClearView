@@ -6,7 +6,7 @@
             var chatBox = new AvaamoChatBot({url: 'https://c0.avaamo.com/web_channels/ec4a30ce-45b8-467d-a47b-dc763fb7093f?banner=true&banner_text=+&banner_title=This+is+a+test+Zero+Touch+Change+Assistant+for+ClearView&demo=true&theme=avm-blue'});
             chatBox.load();
           </script>
-
+<p><a href="#" onClick="alert('Hello');">Click Me</a></p>
 <div style="background-color:blue;color:white;padding:8px;">
 <p>About ClearView</p>
 </div>
