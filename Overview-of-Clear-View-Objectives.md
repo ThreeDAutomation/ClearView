@@ -4,10 +4,7 @@
 <script type="text/javascript">
 
 function showBot() { 
-            var AvaamoChatBot=function(t){function o(t,o){var n=document.createElement("script");n.setAttribute("src",t),n.onload=o,document.body.appendChild(n)}return this.options=t||{},this.load=function(t){o(this.options.url,function(){window.Avaamo.addFrame(),t&&"function"==typeof(t)&&t(window.Avaamo)})},this};
-alert('You triggered an alert!'); 
-            var chatBox = new AvaamoChatBot({url: 'https://c0.avaamo.com/web_channels/ec4a30ce-45b8-467d-a47b-dc763fb7093f?banner=true&banner_text=+&banner_title=This+is+a+test+Zero+Touch+Change+Assistant+for+ClearView&demo=true&theme=avm-blue'});
-            chatBox.load();
+            alert('You triggered an alert!'); 
 }
           </script>
 <p><a href="#" onClick="showBot();">Enable Bot</a></p>
